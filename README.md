@@ -6,7 +6,7 @@
 # Interests
 
 - Stuff I like: Exploring something new, chilling and listening to music.
-- Tap this to reach me: [Telegram](https://t.me/rei_carl)
+- Tap this to reach me: [Telegram](https://t.me/xenrei_crl)
 
 ## About me.
 ```python
