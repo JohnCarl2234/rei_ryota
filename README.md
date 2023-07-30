@@ -8,13 +8,17 @@
 - Stuff I like: Exploring something new, chilling and listening to music.
 - Tap this to reach me: [Telegram](https://t.me/xenrei_crl)
 
+# Technologies 
+- Technologies that I know: Adobe InDesign, Canva and Adobe Illustrator (For Ai: still learining the foundamentals)
+
+
 ## About me.
 ```python
 class johncarl2234():
     def __init__(self):
-        self.name = ['johncarl']
+        self.name = ['John Carl Acosta']
         self.country = ['Philippines']
-        self.language = ['Waray', 'Tagalog', 'Bisaya']
+        self.language = ['English', 'Filipino, 'Cebuano']
     def programming_languages(self):
         return [
             'Python', 'html', 'Shell', 'JavaScript'
@@ -22,7 +26,8 @@ class johncarl2234():
     def developer_tools(self):
         return [
             'GitHub', 'Stack Overflow', 'Docker','Heroku', 'Railway', 'Sublime'
-            'Visual Studio Code', 'Oracle Cloud', 'Termux', 'MT manager'
+            'Visual Studio Code', 'Termux', 'MT manager', 'Adobe InDesign'
+            'Adobe Illustrator'
         ]
     def operating_system(self):
         return [
@@ -30,10 +35,10 @@ class johncarl2234():
         ]
     def linux_distros(self):
         return [
-            'Ubuntu', 'Mint', 'ZorinOS', 'Kali Linux', 'Arch'
+            'fedora', 'mint'
         ]
     def windows_os(self):
         return [
-            'Windows 11', 'Windows 10'
+            'Windows 10'
         ]
 ```
